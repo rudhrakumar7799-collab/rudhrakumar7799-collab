@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Cybersecurity+Enthusiast;Cloud+Computing+Learner;Python+Developer;FastAPI+Developer;Open+Source+Contributor;Lifelong+Learner)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines= Future+AI+Engineer;Cybersecurity;Cloud+Computing;Python+Developer;FastAPI+Developer;Open+Source+Contributor;Lifelong+Learner)
 
 </div>
 
