@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="rudhra_456">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
