@@ -3,7 +3,14 @@
 # ⚡ CYBERPUNK AI DEVELOPER ⚡
 
 <img =<h3 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=🤖+AI+Engineer;🔐+Cybersecurity+Enthusiast;☁️+Cloud+Computing+Learner;🐍+Python+Developer;🚀+FastAPI+Developer;🌍+Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=🤖+AI+Engineer;🔐+Cybersecurity+Enthusiast;☁️+Cloud+Computing+Learner;🐍+Python+Developer;🚀+FastAPI+Developer;🌍+Open+Source+Enthusiast" />background: linear-gradient(
+135deg,
+#050816,
+#0B1120,
+#111827,
+#1E3A8A
+);
+
 
 <br>
 
