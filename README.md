@@ -2,7 +2,8 @@
 
 # ⚡ CYBERPUNK AI DEVELOPER ⚡
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Rudhrakumar;🤖+AI+Engineer;🔐+Cybersecurity+Enthusiast;☁️+Cloud+Computing+Learner;🐍+Python+Developer;🚀+FastAPI+Developer;🌍+Open+Source+Enthusiast" />
+<img =<h3 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=🤖+AI+Engineer;🔐+Cybersecurity+Enthusiast;☁️+Cloud+Computing+Learner;🐍+Python+Developer;🚀+FastAPI+Developer;🌍+Open+Source+Enthusiast" />
 
 <br>
 
