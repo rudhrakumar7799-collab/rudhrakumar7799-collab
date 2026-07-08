@@ -1,188 +1,223 @@
-<div align="center">
+<!-- ============================= -->
+<!--        Animated Banner        -->
+<!-- ============================= -->
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Rudhrakumar
+<h1 align="center">⚡ Welcome to My GitHub ⚡</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=250&section=header&text=AI%20Engineer%20%7C%20Cybersecurity%20%7C%20Cloud&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<h3 align="center">👋 Hi, I'm Rudhrakumar</h3>
 
-### 🤖 AI Engineer • 🔐 Cybersecurity • ☁️ Cloud Computing • 🐍 Python Developer
+<p align="center">
+🤖 AI Engineer • 🔐 Cybersecurity • ☁️ Cloud Computing • 🐍 Python Developer
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Cybersecurity;FastAPI+Developer;Python+Developer;Cloud+Computing;Always+Learning..." />
+<p align="center">
+<i>"Building secure, scalable, and intelligent software."</i>
+</p>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
-
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge">
-
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge">
-
-</div>
-
----
-
-# 💻 About Me
-
-```python
-class Rudhrakumar():
-
-    def __init__(self):
-        self.role = "AI Engineer"
-        self.language = "Python"
-        self.backend = "FastAPI"
-        self.security = "Cybersecurity"
-        self.cloud = "AWS"
-        self.database = ["MySQL","SQLite"]
-        self.editor = "VS Code"
-
-    def life_goal(self):
-        return "Build Secure Intelligent Software"
-
-me = Rudhrakumar()
-```
+<p align="center">
+<a href="https://your-portfolio.com">🌐 Portfolio</a> •
+<a href="https://linkedin.com/in/rudhra456-profile">💼 LinkedIn</a> •
+<a href="mailto:rudhrakumar7799@email.com">📧 Email</a> •
+<a href="https://github.com/rudhrakumar7799-collab">🐙 GitHub</a>
+</p>
 
 ---
 
-# 🚀 Tech Stack
+# ⌨️ Typing Animation
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=fastapi"/>
-
-<img src="https://skillicons.dev/icons?i=aws"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=sqlite"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=🤖+AI+Engineer;🔐+Cybersecurity+Enthusiast;☁️+Cloud+Computing+Learner;🐍+Python+Developer;🚀+FastAPI+Developer;🌍+Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# 👨‍💻 About Me
 
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
+- 🐍 Passionate Python Developer
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 🔐 Learning Cybersecurity & Ethical Hacking
+- ☁️ Exploring Cloud Computing
+- 🚀 Building scalable backend APIs with FastAPI
+- 📚 Solving real-world problems through practical projects
 
 ---
 
-# 🏆 GitHub Trophies
+# 🎯 Goal
 
-<p align="center">
+Become an AI Engineer specializing in
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-
-</p>
+- 🤖 Artificial Intelligence
+- 🔐 Cybersecurity
+- ☁️ Cloud Computing
+- 🚀 Backend Engineering
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🎓 Attendance Tracker | Python • OOP • CSV |
-| 🚀 FastAPI REST API | CRUD • JWT • SQLite |
-| 🔐 Cybersecurity Labs | Linux • Networking |
-| 🗄 SQL Repository | SQL Practice |
+## 📌 Attendance Tracker
+
+> Python • OOP • CSV • Authentication
 
 ---
 
-# 🌱 Currently Learning
+## 📌 FastAPI REST API
 
-```text
-████████████████████████░░ 90% Python
-
-██████████████████████░░░░ 80% FastAPI
-
-███████████████████░░░░░░░ 70% AWS
-
-████████████████░░░░░░░░░░ 65% Cybersecurity
-
-██████████████░░░░░░░░░░░░ 60% Artificial Intelligence
-```
+> CRUD • JWT • SQLite • REST API
 
 ---
 
-# 📜 Certifications
+## 📌 Cybersecurity Labs
 
-🏅 Python
-
-🏅 SQL
-
-🏅 Artificial Intelligence
-
-🏅 AWS (Learning)
+> Linux • Networking • Ethical Hacking
 
 ---
 
-# 🌍 Connect with Me
+## 📌 SQL Practice Repository
 
-<p align="center">
+> Queries • Joins • Database Design
 
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+---
 
-<a href="#"><img src="https://skillicons.dev/icons?i=github"></a>
+# 🛠 Tech Arsenal
 
-<a href="#"><img src="https://skillicons.dev/icons?i=gmail"></a>
+## 🐍 Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript,mysql"/>
 
 </p>
 
 ---
 
-<div align="center">
+## ⚡ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+
+</p>
+
+---
+
+## 🗄 Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+
+</p>
+
+---
+
+## ☁️ Cloud
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,docker"/>
+
+</p>
+
+---
+
+## 🧰 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker"/>
+
+</p>
+
+Claude • Ollama • AntiGravity
+
+---
+
+# 📈 GitHub Dashboard
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rudhrakumar7799-collab&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rudhrakumar7799-collab&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudhrakumar7799-collab&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rudhrakumar7799-collab&theme=algolia&margin-w=10"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rudhrakumar7799-collab&theme=tokyo-night"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/rudhrakumar7799-collab/rudhrakumar7799-collab/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=rudhrakumar7799-collab&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+# 🌱 Learning Journey
+
+- ✅ Artificial Intelligence
+- ✅ Advanced Python
+- ✅ FastAPI
+- ✅ Docker
+- ✅ Linux
+- ✅ AWS
+- ✅ Cybersecurity
+- ✅ Cloud Computing
+
+---
+
+# 🏅 Certifications
+
+- 📜 Python
+- 📜 SQL
+- 📜 Artificial Intelligence
+
+---
 
 # 💬 Developer Philosophy
 
-> **Keep Learning.**
->
-> **Keep Building.**
->
-> **Keep Securing.**
->
-> **Keep Innovating.**
+<p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=footer"/>
+### *Keep learning.*
 
-</div>
+### *Keep building.*
+
+### *Keep securing.*
+
+### *Keep innovating.*
+
+</p>
+
+---
+
+<h3 align="center">
+
+☕ Thanks for visiting!
+
+Let's build something amazing together 🚀
+
+</h3>
