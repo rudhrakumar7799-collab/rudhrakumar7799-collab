@@ -1,7 +1,8 @@
 
+```text
 ███████████████████████████████████████████████████████████████████████
 █                                                                     █
-█                  ⚡ CYBER • AI • CLOUD • PYTHON ⚡                   █
+█                     CYBER • AI • CLOUD • PYTHON ⚡                   █
 █                                                                     █
 █                           👋 Hey, I'm Rudhrakumar                   █
 █                                                                     █
